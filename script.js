@@ -1,6 +1,6 @@
 $(document).ready(function() {
-   const apiRoot = 'https://salty-cliffs-55289.herokuapp.com/v1/task/';
-   const trelloApiRoot = 'https://salty-cliffs-55289.herokuapp.com/v1/trello/';
+   const apiRoot = 'https://pacific-sea-44097.herokuapp.com/v1/task/';
+   const trelloApiRoot = 'https://pacific-sea-44097.herokuapp.com/v1/trello/';
    const datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
    const $tasksContainer = $('[data-tasks-container]');
 
